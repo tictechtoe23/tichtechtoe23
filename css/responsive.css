@@ -397,6 +397,10 @@
     .timeline .timeline-time{
         padding-left: 5%;
         margin: 10px 0 10px 0;
+        font-size: 1.3em;
+    }
+    .timeline .timeline-time small{
+        font-size: 1.1em;
     }
     .timeline-row .timeline-content{
         margin-bottom: 10%;
