@@ -349,12 +349,12 @@
 
     .sp-track-box img{
         float: none !important;
-        width: 70%; 
+        width: 50%; 
         margin: 10%;
     }
 
     #daiict img, #wie img{
-        width: 50%;
+        width: 40%;
    }
    
 
@@ -408,13 +408,13 @@
     .timeline .timeline-time{
         padding-left: 5%;
         margin: 5% 0 5% 0;
-        font-size: 1.3em;
+        font-size: 1.4em;
     }
     .timeline .timeline-time small{
         font-size: 1.1em
     }
-    .timeline-row .timeline-content{
-        margin-bottom: 10%;
+    .timeline-row .timeline-content h4{
+        font-size: 20px;
     }
 }
 

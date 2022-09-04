@@ -715,8 +715,7 @@ button {
      min-width: 100%;
      padding-left: 50%;
      position: relative;
-     margin-top: 10%;
-     margin-bottom: 10%;
+     margin-bottom: 12%;
      text-align: center;
  }
  .timeline-row .timeline-time {
