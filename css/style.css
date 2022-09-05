@@ -346,6 +346,7 @@ button {
 }
 
 .banner_main {
+     height: 100%;
      padding-top: 80px;
      background: #000000;
      background-size: 100% 100%;
