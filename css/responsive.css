@@ -405,6 +405,9 @@
     .timeline .timeline-row:nth-child(even) .timeline-content:after {
         display: none;
     }
+    .timeline-row{
+        margin-bottom: 20%;
+    }
     .timeline .timeline-time{
         padding-left: 5%;
         margin: 5% 0 5% 0;
