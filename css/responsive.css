@@ -356,7 +356,9 @@
     #daiict img, #wie img{
         width: 40%;
    }
-   
+   .logo img{
+        width: 50px;
+    }
 
 }
 
@@ -426,7 +428,7 @@
         margin-right: 4px;
     }
     .logo img {
-        max-width: 70px;
+        width: 45px;
     }
 }
 
@@ -435,6 +437,6 @@
         margin-right: 2px;
     }
     .logo img {
-        max-width: 55px;
+        width: 40px;
     }
 }

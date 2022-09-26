@@ -338,15 +338,16 @@ button {
      text-transform: uppercase;
      color: #fff;
      line-height: 40px;
-     margin-right: 5%;
+     margin-right: 2%;
 }
 
 .logo img {
      max-width: 100px;
 }
 
+
+
 .banner_main {
-     height: 100%;
      padding-top: 80px;
      background: #000000;
      background-size: 100% 100%;
