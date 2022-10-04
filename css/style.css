@@ -1038,3 +1038,24 @@ end footer **/
 #polygon:hover, #wie:hover, #solana:hover{
      box-shadow: 0 0 15px rgb(221, 0, 255);
 }
+
+#speaker:hover{
+     box-shadow: 0 0 15px rgb(255, 0, 43);
+}
+
+#speaker h4{
+     color: white;
+     font-weight: bold;
+     font-size: large;
+}
+
+#speaker img{
+     height: 30%;
+     min-width: 30%;
+     border-radius: 10px;
+}
+
+.speaker-a{
+     font-size: 16px;
+     color: #006EFF;
+}
