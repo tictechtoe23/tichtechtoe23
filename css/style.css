@@ -554,6 +554,7 @@ button {
 /** tracks section **/
 
 .tracks {
+     background-color: black;
      padding-top: 5%;
      font-family: Saira;
      padding-bottom: 3%;
@@ -571,12 +572,14 @@ button {
      border-radius: 20px;
      padding: 40px;
      transition: ease-in all 0.5s;
-     background: rgba(21, 21, 21, 0.7);
+     background: rgba(0, 0, 0, 0.7);
      backdrop-filter: blur( 20px );
      -webkit-backdrop-filter: blur( 20px );
      vertical-align: auto; 
      height: 90%;
 }
+
+
 
 .tracks .tracks-box .img-box{
      height: 40%;
