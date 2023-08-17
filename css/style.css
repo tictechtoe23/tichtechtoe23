@@ -305,7 +305,7 @@ button {
      padding: 0 12px;
      color: #dedede;
      font-family: 'JetBrains Mono', monospace;
-     font-size: 16px;
+     font-size: 18px;
      font-weight: 600;
      line-height: 20px;
      text-transform: uppercase;
@@ -467,6 +467,9 @@ button {
 .about .titlepage{
      padding-bottom: 2%;
 }
+.about .titlepage h2{
+     font-size: 45px;
+}
 
 .about-content {
      text-align: center;
@@ -475,18 +478,21 @@ button {
 
 
 .about-content p {
-     color: #ffffff;
-     font-size: 17px;
-     line-height: 28px;
+     /* color: #0aefc1; */
+     color: #0efff3;
+     font-size: 18px;
+     line-height: 30px;
      text-align: left;
-     margin-right: 10%;
+     margin-right: 2%;
 }
 
 .about-img {
      display: flex;
 }
-.about-img img{
+.about-img figure img{
      margin: auto;
+     padding-top: 50px;
+     padding-right: 40px;
      width: 100%;
 }
 
@@ -563,6 +569,9 @@ button {
 
 .tracks .titlepage p {
      color: #fff;
+}
+.tracks .titlepage h2 {
+     font-size: 45px;
 }
 
 
@@ -905,6 +914,9 @@ button {
      margin-bottom: 5%;
 }
 
+.reach-us .titlepage h2{
+     font-size: 45px;
+}
 
 .reach-us h3{
      color:rgb(255, 213, 0);
