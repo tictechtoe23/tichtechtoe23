@@ -379,7 +379,7 @@ button {
 
 .banner_main {
      padding-top: 80px;
-     background: radial-gradient(circle at -8.9% 51.2%, rgb(255, 124, 0) 0%, rgb(255, 124, 0) 15.9%, rgb(255, 163, 77) 15.9%, rgb(255, 163, 77) 24.4%, rgb(19, 30, 37) 24.5%, rgb(19, 30, 37) 66%);
+     background: radial-gradient(circle at -8.9% 51.2%, rgb(255, 124, 0) 0%, rgb(255, 124, 0) 15.9%, rgb(255, 163, 77) 15.9%, rgb(255, 163, 77) 24.4%, rgb(0, 0, 0) 24.5%, rgb(19, 30, 37) 66%);
      /* background: url('/images/bgimage.png'); */
      background-size: 100% 100%;
      background-repeat: no-repeat;
@@ -400,7 +400,7 @@ button {
 
 .text-bg h2 {
      font-family: 'JetBrains Mono', monospace;
-     color: #128ad9;
+     color: #27e4f2;
      font-size: 30px;
      line-height: 35px;
      font-weight: bold;
