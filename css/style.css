@@ -392,7 +392,7 @@ button {
      font-family: Roblox;
      font-weight: bold;
      color: white;
-     text-shadow: 0 0 15px #ff279a9b;
+     text-shadow: 0 0 25px #ff279a9b;
      font-size: 60px;
      line-height: 70px;
      padding-bottom: 25px;
@@ -400,7 +400,7 @@ button {
 
 .text-bg h2 {
      font-family: 'JetBrains Mono', monospace;
-     color: #fdd430;
+     color: #128ad9;
      font-size: 30px;
      line-height: 35px;
      font-weight: bold;
@@ -977,10 +977,10 @@ end footer **/
 /** timer **/
 
 #timer {
-     font-size: 50px;
+     font-size: 60px;
      font-weight: bold;
      color: rgb(255, 255, 255);
-     text-shadow: 0 0 15px #ff5555;
+     text-shadow: 0 0 25px #0cebe7;
      margin-left: -15px;
      align-self: center;
  }
@@ -993,9 +993,9 @@ end footer **/
  
  #timer div span {
      margin-top: -10%;
-     color: #f1b1b1;
+     color: #f4f1b3;
      display: block;
-     font-size: .35em;
+     font-size: .30em;
      font-weight: bold;
  }
 
