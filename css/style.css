@@ -727,6 +727,7 @@ button {
 
 /** timeline **/
 
+/**
  .Timeline {
      padding-top: 5%;
      font-family: Saira;
@@ -787,7 +788,7 @@ button {
      -webkit-border-radius: 4px;
      -moz-border-radius: 4px;
      background: rgb(21, 21, 21);
-     /*box-shadow: 0 0 5px rgb(0, 174, 255);*/
+     box-shadow: 0 0 5px rgb(0, 174, 255);
      border-radius: 20px;
      display: flex;
      align-items: center;
@@ -871,7 +872,7 @@ button {
      border-left: 0;
      border-bottom: 0;
      transform: rotate(45deg);
- }
+ } **/
  
 
 /** Sponsors **/
