@@ -23,6 +23,13 @@
     }
 }
 
+@media (max-width : 490px){
+    .myimg{
+        max-width: 100%;
+        width: 100%;
+        height: auto !important;
+    }
+}
 @media (min-width: 768px) and (max-width: 991.98px) {
 
     .titlepage h2 {
@@ -259,6 +266,8 @@
         text-align: center;
         align-items: center;
     }
+
+    
     .logo {
         text-align: center !important;
         float: left;
@@ -440,3 +449,4 @@
         width: 40px;
     }
 }
+
