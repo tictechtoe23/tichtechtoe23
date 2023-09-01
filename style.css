@@ -692,7 +692,7 @@ button {
 
 
  .timeline {
-     color: #ffffff;
+     color: #000000;
      position: relative;
      -webkit-border-radius: 4px;
      -moz-border-radius: 4px;
@@ -711,6 +711,7 @@ button {
      border-right: 2px dashed #6ed3ffb6;
      height: 90%;
      display: block;
+     color:#000
  }
  
  .timeline-row {
