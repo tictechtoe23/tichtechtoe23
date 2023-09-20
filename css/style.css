@@ -297,6 +297,10 @@ button {
 
 /*-- navigation--*/
 
+.header{
+     backdrop-filter: blur(30px) saturate(3);
+}
+
 .navigation.navbar {
      float: right;
 }
@@ -316,7 +320,7 @@ button {
 .navigation.navbar-dark .navbar-nav .nav-link:hover{
      color: #fff;
      filter: drop-shadow(0 0 0.75rem rgba(249, 248, 248, 0.793));
-     backdrop-filter: blur(15px) saturate(3);
+
 }
 
 .navigation.navbar-dark .navbar-nav .active>.nav-link,
@@ -325,7 +329,7 @@ button {
 .navigation.navbar-dark .navbar-nav .show>.nav-link {
      color: #fff;
      filter: drop-shadow(0 0 0.75rem rgba(249, 248, 248, 0.793));
-     backdrop-filter: blur(15px) saturate(3);
+
 }
 
 .titlepage {
@@ -482,7 +486,7 @@ button {
 
 .about-content p {
      /* color: #0aefc1; */
-     color: #0efff3;
+     color: #ffffff;
      font-size: 18px;
      line-height: 30px;
      text-align: left;
@@ -531,6 +535,10 @@ button {
      color: #ffffff;
      padding-bottom: 3%;
      margin-bottom: 2%;
+}
+
+.prizes .titlepage h2{
+     font-size: 45px;
 }
 
 .prizes .prizes-img{
@@ -887,6 +895,10 @@ button {
      padding-top: 5%;
      font-family: Saira;
      padding-bottom: 3%;
+}
+
+.sponsors .titlepage h2 {
+     font-size: 45px;
 }
 
 .sponsors .sponsor-box {
