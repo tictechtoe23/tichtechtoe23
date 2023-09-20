@@ -901,6 +901,11 @@ button {
      font-size: 45px;
 }
 
+.sponsors .titlepage .sml h2 {
+     font-size: 35px;
+}
+
+
 .sponsors .sponsor-box {
      display: block;
      background-color: transparent;
